@@ -127,4 +127,4 @@ def get_all_matrixes(n,k,q):
     return all_matrixes
 
 if __name__ == '__main__':
-    pass
+    print('kek')
