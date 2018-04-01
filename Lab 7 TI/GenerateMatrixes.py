@@ -123,7 +123,6 @@ def get_all_matrixes(n,k,q):
         for i in range(k):
             new_matrix[i].extend(p_part[i])
         all_matrixes.append(new_matrix)
-        print('Onime')
         break
     return all_matrixes
 
