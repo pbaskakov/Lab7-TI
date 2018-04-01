@@ -125,4 +125,3 @@ def get_all_matrixes(n,k,q):
         all_matrixes.append(new_matrix)
         break
     return all_matrixes
-
